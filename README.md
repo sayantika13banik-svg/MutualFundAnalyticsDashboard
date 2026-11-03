@@ -26,3 +26,6 @@ Then open the local URL shown by Streamlit.
 4. Open Investor Analytics and explain the transaction-level analysis.
 5. Finish on Portfolio Holdings to demonstrate the full analytics workflow.
 
+
+<img width="1897" height="901" alt="Screenshot 2026-11-03 235819" src="https://github.com/user-attachments/assets/78ce8508-73b4-4611-a42a-70e8703a1c76" />
+<img width="1878" height="880" alt="Screenshot 2026-11-03 235941" src="https://github.com/user-attachments/assets/222a838d-1165-4988-970a-19d6c7b6d2a1" />
